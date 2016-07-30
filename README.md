@@ -1,0 +1,2 @@
+# jthais
+Jailbreak detection bypass
